@@ -13,7 +13,7 @@ const Latest = () => {
                     <Link href="/blog/next15" className='ml-[5%]'><button className='border border-white bg-black text-white text-[15px] text-center md:p-3 p-1 rounded-lg'>Read More</button></Link>
                 </div>
                 <div className='md:w-[60%] w-[90%] pt-8'>
-                <Image src="/images/15.jpg" alt="next-15" width={200} height={250} className="md:ml-10 md:mr-6 m-3 w-full h-full md:w-[90%] sm:w-[660px] md:h-[350px] sm:h[350px] border border-slate-300 rounded-lg"/>
+                <Image src="/images/nextjs15.png" alt="next-15" width={200} height={250} className="md:ml-10 md:mr-6 m-3 w-full h-full md:w-[90%] sm:w-[660px] md:h-[350px] sm:h[350px] border border-slate-300 rounded-lg"/>
                 </div>
             </div>
            
